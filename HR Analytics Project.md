@@ -40,6 +40,8 @@ Enhance employee retention initiatives.
 GitHub README Description
 
 HR Analytics Dashboard using Power BI
+<img width="1170" height="648" alt="Screenshot 2026-05-19 095227" src="https://github.com/user-attachments/assets/ef6015a3-9ee6-4e2e-89bc-71d42de265aa" />
+
 
 Developed an interactive HR Analytics Dashboard to analyze employee attrition and workforce trends. The dashboard provides insights into employee demographics, salary distribution, years of service, education background, and job roles. Using Power BI visualizations and DAX calculations, the project helps HR teams identify key drivers of attrition and make informed decisions to improve employee retention and organizational performance.
 
